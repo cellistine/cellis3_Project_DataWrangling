@@ -25,12 +25,7 @@ DataWrangling/
 │   ├── cellis3_projectcheckin.ipynb # Analysis of relationships between variables
 │   └── cellis3_FinalProject.ipynb   # Models for predicting S&P 500 values
 ├── visualizations/              # Generated charts and graphs
-│   └── README.md                # Description of visualizations
-├── docs/                        # Project documentation
-│   └── data_dictionary.md       # Detailed data dictionary
-├── reports/                     # Generated reports and presentations
-│   └── final_presentation.pdf   # Final project presentation
-├── .gitignore                   # Specifies intentionally untracked files
+│   └── README.md                # Description of visualizations                
 └── README.md                    # Main project README
 ```
 
