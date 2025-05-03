@@ -59,11 +59,40 @@ This directory contains Jupyter notebooks for the COVID-19, Mobility, and S&P 50
 - scikit-learn
 - statsmodels
 
+### 3. `cellis3_projectfinal.ipynb`
+
+**Purpose**: FInal visualizations, analysis, and modeling
+
+**Description**: This notebook performs exploratory data analysis and final modeling on the merged dataset, including:
+- Data exploration and visualization
+- Correlation analysis between COVID-19 metrics, mobility data, and S&P 500
+- Feature engineering including creation of lagged variables
+- Handling of trading vs. non-trading days
+- Initial predictive modeling
+
+**Key Sections**:
+- Data loading and preprocessing
+- Exploratory visualizations
+- Statistical correlation analysis
+- Time series analysis
+- Feature importance evaluation
+- Final predictive models
+- Evaluation of results 
+
+**Dependencies**:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- statsmodels
+
 ## Running the Notebooks
 
 The notebooks should be run in sequence:
 1. First run `cellis3_project_data.ipynb` to generate the dataset
 2. Then run `cellis3_projectcheckin.ipynb` for analysis and modeling
+3. Then run 'cellis3_projectfinal.ipynb' for full analysis and modeling 
 
 ## Notebook Standards
 
