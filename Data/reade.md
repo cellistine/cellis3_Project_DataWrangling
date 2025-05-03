@@ -6,6 +6,8 @@ This directory contains all data files used in the COVID-19, Mobility, and S&P 5
 
 - `raw/`: Original, immutable data files
   - `cellis3_project_data.csv`: Main dataset containing COVID-19 statistics, mobility metrics, and S&P 500 values
+- `processed/`: Cleaned, processed data files
+  - `cellis3_projectcheckin.csv`: Main dataset containing COVID-19 statistics, mobility metrics, and S&P 500 values thats been imputed, lagged, and preprocessed
   
 
 ## Data Sources
