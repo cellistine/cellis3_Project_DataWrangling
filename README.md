@@ -43,9 +43,9 @@ The complete data dictionary is available in `docs/data_dictionary.md`. Key vari
 
 ## Data Sources
 The dataset is obtained from the following sources:
-- COVID-19 data: [Johns Hopkins COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)
-- Mobility data: [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
-- S&P 500 data: [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC/history/)
+* COVID-19 data: [Worldometers](https://www.worldometers.info/coronavirus/country/us/)
+* Mobility data: [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
+* S&P 500 data: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/SP500)
 
 ## Analysis Files
 - `cellis3_projectdata.ipynb`: Initial data exploration, handling missing values, and data preparation
